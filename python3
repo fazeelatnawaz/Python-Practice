@@ -1,0 +1,14 @@
+row_1 = ['Facebook',0.0,'USD',2974676]
+row_2 = ['Instagram',4.5,'USD',2161558]
+print(row_1[-1])
+print(row_2[-1])
+print(row_1[-3])
+print(row_2[-4])
+
+num_ratings = [row_1[-1]], [row_2[-1]]
+print (num_ratings)
+row_3 = ['clash of clans',0.0,'USD',2130805,4.5]
+print(row_3[:2])
+print(row_3[1:4])
+print(row_3[3:])
+
