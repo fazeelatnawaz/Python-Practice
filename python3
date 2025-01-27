@@ -12,3 +12,9 @@ print(row_3[:2])
 print(row_3[1:4])
 print(row_3[3:])
 
+print(row_3[0:5])
+num_rating =[row_1[-2] , row_2[-2]]
+print (num_rating)
+a_list =[1,2]
+a_list.append(3)
+print(a_list)
