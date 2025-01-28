@@ -1,0 +1,13 @@
+row_1 = ['Facebook','USD',3.5]
+row_2 = ['Instagram','USD',8.2]
+row_3 = ['Clash','USD',0.0]
+row_4 = ['Fruit','USD',1.99]
+lists = [row_1,row_2,row_3,row_4]
+print(lists[0][0])
+print(lists[1][2])
+print(lists[-2][2])
+print(lists[-1][-1])
+print(lists[:2])
+print(lists[-2:])
+print(lists[1:])
+print(lists[1][:3])
