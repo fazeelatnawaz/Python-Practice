@@ -30,3 +30,38 @@ else:
         print(b)
     else:
         print(c)
+
+
+
+a=10
+b=5
+if a%b==0:
+    print(a,"is even number")
+else:
+    print(a,"is odd number")
+    
+ 
+
+
+a= int(input("Enter first number"))
+b= int(input("Enter second number"))
+if a%b==0:
+    print(a,"is even number")
+else:
+    print(a,"is odd number")
+
+
+def values(a,b):
+    if a%b==0:
+        print(a,"is even number")
+    else:
+        print(a,"is odd number")
+
+values(int(input("Enter first number"), ("Enter second number")))
+
+
+    
+    
+ 
+
+
