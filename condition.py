@@ -2,7 +2,7 @@ U="Fazeelat"
 P=123
 u=str(input("Enter your username"))
 p=int(input("Enter yoyr password"))
-if u==U and p==P:
+if U==u and P==P:
    print("wellcome")
 else:
    print("incorrect")
